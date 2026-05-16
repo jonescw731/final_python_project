@@ -14,7 +14,7 @@ def scrape():
     for url in urls:
         response = requests.get(url=url, headers=headers)
         soup = BeautifulSoup(response.text, 'html.parser')
-        print(f"Scrapping ...{soup.title.string if soup.title else 'Title not found'} | {soup.time.string if soup.time else 'Not found'}")
+        print(f"Scrapping ...{soup.title.string if soup.title else 'Title not found'} | {soup.figcaption.string if soup.figcaption else 'Not found'} | {soup.time.string if soup.time else 'Not found'}")
 
 
 
