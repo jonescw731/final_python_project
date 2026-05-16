@@ -14,7 +14,7 @@ Jacob Koehler<br/>
 Data and Design with Python<br/>
 May 14, 2026<br>
 
-Learning from Failure
+Learning from Failure<br/>
 <br/>
 
 For my final project, I wanted to create a user-accessible archive of New School Free Press articles. I wanted this archive to, at its core, be able to search for every article ever published by our student-run paper, at least that had been published on the web. (I would love to have it include print as well at some point — which was something I wanted to do as part of this project, and is something I still want to do.) The New School Free Press website’s search bar is infuriating, as a user and as a staff member, and I just want one that works. And one that, theoretically, could be used by NSFP to improve their site’s accessibility.
