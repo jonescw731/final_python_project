@@ -8,10 +8,10 @@ Sentence generator based on the advice series for the New School Free Press: Lov
 I have two files (**FIRST_ATTEMPT and scraper_code_backup**) that were my first attempts to try and build something before switching to a markov chain, which is what ended up working for me.
 **NSFPscraper.ipynb** is the scraper I used to sort the Love, Lucy articles I wanted in my corpus text, and to spot any missing articles by scraping the publication dates of each one.
 
-Simon Jones
-Jacob Koehler
-Data and Design with Python
-May 14, 2026
+Simon Jones\n
+Jacob Koehler\n
+Data and Design with Python\n
+May 14, 2026\n
 
 Learning from Failure
 
